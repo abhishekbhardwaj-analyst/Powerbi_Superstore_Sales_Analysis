@@ -20,7 +20,7 @@ The SuperStore Sales Dashboard is an interactive analytics dashboard built with 
 6. Sales by Product Category
 
 ## 🧑‍💻 Author
-- Your Name
+- Abhishek Bhardwaj
 - [GitHub Profile](https://github.com/abhishekbhardwaj-analyst)
 - [LinkedIn Profile](https://linkedin.com/in/ds-abhishek)  
 
